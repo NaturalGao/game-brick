@@ -1,4 +1,3 @@
-
 var loadLevel = (game, n) => {
     n--
     let level = levels[n]
